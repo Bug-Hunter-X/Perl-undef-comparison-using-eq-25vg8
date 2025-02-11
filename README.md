@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an incorrect way to check for undefined variables and its corrected version. The script highlights the importance of using the defined() function instead of eq when dealing with undef values in Perl.  Incorrect usage can lead to unexpected behavior and logic errors in your programs.
